@@ -1,0 +1,79 @@
+.lif {
+  width: 200px;
+  border-radius: 20%;
+}
+.intro {
+  box-sizing: content-box;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 16px;
+  color: rgb(3, 3, 3);
+  text-align: center;
+  box-shadow: 2px;
+}
+.intro h4 {
+  color: rgb(22, 21, 21);
+  font-size: 30px;
+  margin-bottom: 3px;
+  margin-top: 3px;
+}
+
+a:link {
+  color: blue;
+}
+a:visited {
+  color: #777;
+}
+a:hover {
+  color: hotpink;
+}
+.text-ol {
+  color: black;
+  font-stretch: normal;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 30px;
+}
+.top-color {
+  background-color: rgb(238, 230, 187);
+  background-size: 300px;
+  background-position-x: center;
+  margin: 5px 150px;
+  border-radius: 20px;
+}
+.container {
+  font-weight: bold;
+  font-style: italic;
+  font-weight: 300;
+  text-align: center;
+  font-size: large;
+  text-transform: uppercase;
+  margin-left: 150px;
+  margin-right: 150px;
+  background-color: rgb(230, 185, 185);
+  border-radius: 20px;
+}
+.work {
+  font-style: italic;
+  font-size: large;
+  text-transform: uppercase;
+  background-color: rgb(182, 243, 192);
+  text-align: center;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 20px;
+}
+.work table {
+  margin: auto;
+}
+
+.busi {
+  font-size: large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: rgb(231, 221, 162);
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 20px;
+  text-align: center;
+}
